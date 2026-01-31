@@ -54,3 +54,4 @@ Frontend: React, Vite, Tailwind CSS, Axios.
 Backend: Python, Django, Django REST Framework.
 
 Database: SQLite (default for development).
+
